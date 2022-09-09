@@ -24,8 +24,5 @@ return loadedPokemon;
 }
 fetchPokemon();
 
-pokemon.set([5])
-console.log(pokemon)
-
 
 
